@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+sentence-transformers
+faiss-cpu
+pypdf
+python-dotenv
+fastapi
+uvicorn
+streamlit
+openai
